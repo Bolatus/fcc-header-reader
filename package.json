@@ -1,0 +1,14 @@
+{
+  "name": "fcc-header-reader",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Bolat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
